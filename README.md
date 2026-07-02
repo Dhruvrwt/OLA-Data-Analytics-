@@ -73,7 +73,7 @@ To deliver an interactive, multi-page tool that:
 * **Customer Insights:** The top-customers table helps identify high-value riders for retention efforts.
 
 ## 📸 Screenshots / Demo
-
+https://github.com/Dhruvrwt/OLA-Data-Analytics-/tree/main/OLA%20Dashbord%20Snapshorts
 
 ## 🚀 How to Use
 
